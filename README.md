@@ -20,4 +20,4 @@ CSS
 JAVASCRIPT
 -used for the logic of the game
 
-The demo can be found here:
+The demo of Simon Game can be found here: https://github.com/IrinaAlcala/simon-game.git
