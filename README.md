@@ -14,10 +14,11 @@ In normal mode, after every mistake the pattern is repeated to remind the player
 TECHNOLOGIES
 
 HTML
--used for structuring content
+-used for structuring of the content;
 CSS
--used for layout and presentation of the page
+-used for layout and presentation of the page;
 JAVASCRIPT
--used for the logic of the game
+-used for the logic of the game;
 
 The demo of Simon Game can be found here: https://github.com/IrinaAlcala/simon-game.git
+The image of Simon Game can be found here: https://pasteboard.co/J0WXxp1.png
