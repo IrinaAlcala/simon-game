@@ -20,7 +20,7 @@ CSS
 JAVASCRIPT
 -used for the logic of the game;
 
-The demo of Simon Game can be found here: https://github.com/IrinaAlcala/simon-game.git
+The demo of Simon Game can be found here: https://romantic-lalande-5d628a.netlify.com/
 
 
 
