@@ -116,7 +116,7 @@ function showSteps() {
 
 		userStep++;
 
-		timeout = setTimeout(showSteps, 0.3*1000); // give time for transition to finish
+		timeout = setTimeout(showSteps, 0.3*1000);
 
 	}, 0.6*1000);
 
