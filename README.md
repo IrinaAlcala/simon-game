@@ -8,7 +8,7 @@ FEATURES
 4 squares with unique colors and sounds.
 4 levels, all have to be completed in order to win the game.
 2 game modes:normal and strict.
-Normal mode selected with the start button where a user can make a mistake 4 times before losing the game.
+ Normal mode selected with the start button where a user can make a mistake 4 times before losing the game.
 In normal mode, after every mistake the pattern is repeated to remind the player what the sequence so far is. It also repeats in intervals if a player doesn't move their mouse for a long enough period of time to prompt them to make a move.
 
 TECHNOLOGIES
