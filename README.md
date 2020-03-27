@@ -1,7 +1,7 @@
 
 SUMMARY OF THE GAME
 
-Based on the famous electronic game of memory skill invented by Ralph H. Baer and Howard J. Morrison. The game works by highlighting squares and playing their corresponding sounds for a brief period of time in a random squence. The user then has to repeat this sequence to progress to the next level.
+Based on the famous electronic game of memory skill invented by Ralph H. Baer and Howard J. Morrison. The game works by highlighting squares and playing their corresponding sounds for a brief period of time in a random sequence. The user then has to repeat this sequence to progress to the next level.
 
 FEATURES
 
