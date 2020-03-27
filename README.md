@@ -21,4 +21,8 @@ JAVASCRIPT
 -used for the logic of the game;
 
 The demo of Simon Game can be found here: https://github.com/IrinaAlcala/simon-game.git
-The image of Simon Game https://imgur.com/a/HIMG9HV
+The image of Simon Game
+
+
+
+-used for structuring of the content;
